@@ -7,6 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D89613C41B287763003954E2 /* TileObject.m in Sources */ = {isa = PBXBuildFile; fileRef = D89613C31B287763003954E2 /* TileObject.m */; };
+		D89613C71B28776E003954E2 /* Factory.m in Sources */ = {isa = PBXBuildFile; fileRef = D89613C61B28776E003954E2 /* Factory.m */; };
+		D89613D21B288DF3003954E2 /* bad1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D89613C91B288DF3003954E2 /* bad1.jpg */; };
+		D89613D31B288DF3003954E2 /* bad2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D89613CA1B288DF3003954E2 /* bad2.jpg */; };
+		D89613D41B288DF3003954E2 /* bad3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D89613CB1B288DF3003954E2 /* bad3.jpg */; };
+		D89613D51B288DF3003954E2 /* bad4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D89613CC1B288DF3003954E2 /* bad4.jpg */; };
+		D89613D61B288DF3003954E2 /* bad5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D89613CD1B288DF3003954E2 /* bad5.jpg */; };
+		D89613D71B288DF3003954E2 /* bad6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D89613CE1B288DF3003954E2 /* bad6.jpg */; };
+		D89613D81B288DF3003954E2 /* bad7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D89613CF1B288DF3003954E2 /* bad7.jpg */; };
+		D89613D91B288DF3003954E2 /* bad8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D89613D01B288DF3003954E2 /* bad8.jpg */; };
+		D89613DA1B288DF3003954E2 /* bad9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D89613D11B288DF3003954E2 /* bad9.jpg */; };
+		D89613DE1B28900B003954E2 /* BadGuy.m in Sources */ = {isa = PBXBuildFile; fileRef = D89613DD1B28900B003954E2 /* BadGuy.m */; };
+		D89613E11B28B9DA003954E2 /* Mario.m in Sources */ = {isa = PBXBuildFile; fileRef = D89613E01B28B9DA003954E2 /* Mario.m */; };
+		D89613E61B28BC6B003954E2 /* mario0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D89613E21B28BC6B003954E2 /* mario0.jpg */; };
+		D89613E71B28BC6B003954E2 /* mario1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D89613E31B28BC6B003954E2 /* mario1.jpg */; };
+		D89613E81B28BC6B003954E2 /* mario2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D89613E41B28BC6B003954E2 /* mario2.jpg */; };
+		D89613E91B28BC6B003954E2 /* mario3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D89613E51B28BC6B003954E2 /* mario3.jpg */; };
+		D89613EC1B29E308003954E2 /* flower.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D89613EA1B29E308003954E2 /* flower.jpg */; };
+		D89613ED1B29E308003954E2 /* mushroom.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D89613EB1B29E308003954E2 /* mushroom.jpg */; };
+		D89613EF1B2A16AA003954E2 /* oneup.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D89613EE1B2A16AA003954E2 /* oneup.jpg */; };
+		D89613F11B2A1D71003954E2 /* princess.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D89613F01B2A1D71003954E2 /* princess.jpg */; };
 		D8B74C181B2746260081D4CF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D8B74C171B2746260081D4CF /* main.m */; };
 		D8B74C1B1B2746260081D4CF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D8B74C1A1B2746260081D4CF /* AppDelegate.m */; };
 		D8B74C1E1B2746260081D4CF /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D8B74C1D1B2746260081D4CF /* ViewController.m */; };
@@ -27,6 +48,31 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D89613C21B287763003954E2 /* TileObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TileObject.h; sourceTree = "<group>"; };
+		D89613C31B287763003954E2 /* TileObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TileObject.m; sourceTree = "<group>"; };
+		D89613C51B28776E003954E2 /* Factory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Factory.h; sourceTree = "<group>"; };
+		D89613C61B28776E003954E2 /* Factory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Factory.m; sourceTree = "<group>"; };
+		D89613C91B288DF3003954E2 /* bad1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bad1.jpg; sourceTree = "<group>"; };
+		D89613CA1B288DF3003954E2 /* bad2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bad2.jpg; sourceTree = "<group>"; };
+		D89613CB1B288DF3003954E2 /* bad3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bad3.jpg; sourceTree = "<group>"; };
+		D89613CC1B288DF3003954E2 /* bad4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bad4.jpg; sourceTree = "<group>"; };
+		D89613CD1B288DF3003954E2 /* bad5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bad5.jpg; sourceTree = "<group>"; };
+		D89613CE1B288DF3003954E2 /* bad6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bad6.jpg; sourceTree = "<group>"; };
+		D89613CF1B288DF3003954E2 /* bad7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bad7.jpg; sourceTree = "<group>"; };
+		D89613D01B288DF3003954E2 /* bad8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bad8.jpg; sourceTree = "<group>"; };
+		D89613D11B288DF3003954E2 /* bad9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bad9.jpg; sourceTree = "<group>"; };
+		D89613DC1B28900B003954E2 /* BadGuy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BadGuy.h; sourceTree = "<group>"; };
+		D89613DD1B28900B003954E2 /* BadGuy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BadGuy.m; sourceTree = "<group>"; };
+		D89613DF1B28B9DA003954E2 /* Mario.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Mario.h; sourceTree = "<group>"; };
+		D89613E01B28B9DA003954E2 /* Mario.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Mario.m; sourceTree = "<group>"; };
+		D89613E21B28BC6B003954E2 /* mario0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mario0.jpg; sourceTree = "<group>"; };
+		D89613E31B28BC6B003954E2 /* mario1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mario1.jpg; sourceTree = "<group>"; };
+		D89613E41B28BC6B003954E2 /* mario2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mario2.jpg; sourceTree = "<group>"; };
+		D89613E51B28BC6B003954E2 /* mario3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mario3.jpg; sourceTree = "<group>"; };
+		D89613EA1B29E308003954E2 /* flower.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = flower.jpg; sourceTree = "<group>"; };
+		D89613EB1B29E308003954E2 /* mushroom.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mushroom.jpg; sourceTree = "<group>"; };
+		D89613EE1B2A16AA003954E2 /* oneup.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = oneup.jpg; sourceTree = "<group>"; };
+		D89613F01B2A1D71003954E2 /* princess.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = princess.jpg; sourceTree = "<group>"; };
 		D8B74C121B2746260081D4CF /* Mario Game.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Mario Game.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D8B74C161B2746260081D4CF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D8B74C171B2746260081D4CF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -60,6 +106,45 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D89613C81B287781003954E2 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				D89613C21B287763003954E2 /* TileObject.h */,
+				D89613C31B287763003954E2 /* TileObject.m */,
+				D89613C51B28776E003954E2 /* Factory.h */,
+				D89613C61B28776E003954E2 /* Factory.m */,
+				D89613DF1B28B9DA003954E2 /* Mario.h */,
+				D89613E01B28B9DA003954E2 /* Mario.m */,
+				D89613DC1B28900B003954E2 /* BadGuy.h */,
+				D89613DD1B28900B003954E2 /* BadGuy.m */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		D89613DB1B288DF9003954E2 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				D89613E21B28BC6B003954E2 /* mario0.jpg */,
+				D89613E31B28BC6B003954E2 /* mario1.jpg */,
+				D89613E41B28BC6B003954E2 /* mario2.jpg */,
+				D89613E51B28BC6B003954E2 /* mario3.jpg */,
+				D89613C91B288DF3003954E2 /* bad1.jpg */,
+				D89613CA1B288DF3003954E2 /* bad2.jpg */,
+				D89613CB1B288DF3003954E2 /* bad3.jpg */,
+				D89613CC1B288DF3003954E2 /* bad4.jpg */,
+				D89613CD1B288DF3003954E2 /* bad5.jpg */,
+				D89613CE1B288DF3003954E2 /* bad6.jpg */,
+				D89613CF1B288DF3003954E2 /* bad7.jpg */,
+				D89613D01B288DF3003954E2 /* bad8.jpg */,
+				D89613D11B288DF3003954E2 /* bad9.jpg */,
+				D89613EA1B29E308003954E2 /* flower.jpg */,
+				D89613EB1B29E308003954E2 /* mushroom.jpg */,
+				D89613EE1B2A16AA003954E2 /* oneup.jpg */,
+				D89613F01B2A1D71003954E2 /* princess.jpg */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
 		D8B74C091B2746260081D4CF = {
 			isa = PBXGroup;
 			children = (
@@ -86,6 +171,7 @@
 				D8B74C1C1B2746260081D4CF /* ViewController.h */,
 				D8B74C1D1B2746260081D4CF /* ViewController.m */,
 				D8B74C1F1B2746260081D4CF /* Main.storyboard */,
+				D89613C81B287781003954E2 /* Model */,
 				D8B74C221B2746260081D4CF /* Images.xcassets */,
 				D8B74C241B2746260081D4CF /* LaunchScreen.xib */,
 				D8B74C151B2746260081D4CF /* Supporting Files */,
@@ -98,6 +184,7 @@
 			children = (
 				D8B74C161B2746260081D4CF /* Info.plist */,
 				D8B74C171B2746260081D4CF /* main.m */,
+				D89613DB1B288DF9003954E2 /* Images */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -199,9 +286,26 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D89613D51B288DF3003954E2 /* bad4.jpg in Resources */,
+				D89613D81B288DF3003954E2 /* bad7.jpg in Resources */,
+				D89613F11B2A1D71003954E2 /* princess.jpg in Resources */,
+				D89613E61B28BC6B003954E2 /* mario0.jpg in Resources */,
 				D8B74C211B2746260081D4CF /* Main.storyboard in Resources */,
+				D89613E91B28BC6B003954E2 /* mario3.jpg in Resources */,
+				D89613D41B288DF3003954E2 /* bad3.jpg in Resources */,
+				D89613EC1B29E308003954E2 /* flower.jpg in Resources */,
+				D89613D61B288DF3003954E2 /* bad5.jpg in Resources */,
+				D89613E81B28BC6B003954E2 /* mario2.jpg in Resources */,
+				D89613ED1B29E308003954E2 /* mushroom.jpg in Resources */,
+				D89613E71B28BC6B003954E2 /* mario1.jpg in Resources */,
+				D89613D71B288DF3003954E2 /* bad6.jpg in Resources */,
+				D89613D31B288DF3003954E2 /* bad2.jpg in Resources */,
+				D89613DA1B288DF3003954E2 /* bad9.jpg in Resources */,
 				D8B74C261B2746260081D4CF /* LaunchScreen.xib in Resources */,
+				D89613D91B288DF3003954E2 /* bad8.jpg in Resources */,
+				D89613EF1B2A16AA003954E2 /* oneup.jpg in Resources */,
 				D8B74C231B2746260081D4CF /* Images.xcassets in Resources */,
+				D89613D21B288DF3003954E2 /* bad1.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -219,6 +323,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D89613E11B28B9DA003954E2 /* Mario.m in Sources */,
+				D89613C71B28776E003954E2 /* Factory.m in Sources */,
+				D89613DE1B28900B003954E2 /* BadGuy.m in Sources */,
+				D89613C41B287763003954E2 /* TileObject.m in Sources */,
 				D8B74C1E1B2746260081D4CF /* ViewController.m in Sources */,
 				D8B74C1B1B2746260081D4CF /* AppDelegate.m in Sources */,
 				D8B74C181B2746260081D4CF /* main.m in Sources */,
@@ -416,6 +524,7 @@
 				D8B74C371B2746260081D4CF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D8B74C381B2746260081D4CF /* Build configuration list for PBXNativeTarget "Mario GameTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +533,7 @@
 				D8B74C3A1B2746260081D4CF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
